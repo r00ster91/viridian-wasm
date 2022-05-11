@@ -4,7 +4,7 @@ Viridian from the game [VVVVVV](https://store.steampowered.com/app/70300/VVVVVV/
 
 It is written in raw WebAsssembly Text and compiles down to merely 842 bytes.
 
-![image](https://user-images.githubusercontent.com/35064754/165492461-137c318b-95a8-4db4-acd6-073d19b81005.png)
+https://user-images.githubusercontent.com/35064754/167928559-a6d92f58-b354-4997-8759-590328f37f4a.mp4
 
 ## Building
 
